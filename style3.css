@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar img{
+    height: 50px;
+    
+}
+.col-6 img{
+    height: 200px;
+    
+}
+.p-3 img{
+    height: 100px;
+    width: auto;
+}
+.arrow img{
+    height: 50px;
+    width: auto;
+}
+.navbar {
+    height: 50px;
+    background-color: rgb(228, 222, 222) !important;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
